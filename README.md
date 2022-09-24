@@ -38,7 +38,8 @@ I am currently a computer and artificial intelligence student, and I am very int
 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,css,html,jquery,sass,&perline=10)](https://skillicons.dev)
 
-<hr>
+
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 
 <p align="center">
@@ -57,6 +58,4 @@ I am currently a computer and artificial intelligence student, and I am very int
 
 </p>
 
-<hr>
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
