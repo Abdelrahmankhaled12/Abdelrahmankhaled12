@@ -19,13 +19,17 @@ I am currently a computer and artificial intelligence student, and I am very int
 
 
 <ul>
+
   <br>
+  
 <li> 🧐   Interested in Front-End.</li>
 <li> 🎓   Student at the Faculty of Computers and Artificial Intelligence, Helwan University, Egypt</li>
 <li> 🌱   Currently learning PhP, react And Everything About WEB.</li>
 <li> ⛵   My Target Is to become a full srack Encouraging people for open source collaborations.</li>
 </ul>
+
 <br>
+
 <hr>
 
 ## ⚡ programming language :
