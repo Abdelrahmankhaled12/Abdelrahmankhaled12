@@ -15,7 +15,7 @@ I am currently a computer and artificial intelligence student, and I am very int
 ## ⚡ A Few Quick Facts :
 
 
-<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "250" width="350">
+<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "250" width="250">
 
 
 <ul>
