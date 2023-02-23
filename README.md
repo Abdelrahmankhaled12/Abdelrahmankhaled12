@@ -34,7 +34,7 @@ I am currently a computer and artificial intelligence student, and I am very int
 
 ## ⚡ programming language :
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts&perline=15)](https://skillicons.dev)
 
 <hr>
 
