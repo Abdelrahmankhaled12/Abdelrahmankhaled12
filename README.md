@@ -10,34 +10,20 @@ I enjoy challenging myself to learn new techniques and apply them in my projects
 
 <br>
 
-## ⚡ A Few Quick Facts :
-
-<ul>
-
-  <br>
-  
-<li> 🧐   Interested in Front-End.</li>
-<li> 🎓   Student at the Faculty of Computers and Artificial Intelligence, Helwan University, Egypt</li>
-<li> 🌱   Currently learning PhP, react And Everything About WEB.</li>
-<li> ⛵   My Target Is to become a full srack Encouraging people for open source collaborations.</li>
-</ul>
-
-<br>
-
 <hr>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> programming language :
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> programming language :
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,php&perline=15)](https://skillicons.dev)
 
 <hr>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Front-End Skills :
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Front-End Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,css,html,jquery,sass,figma,firebase,github,nextjs,netlify,redux,tailwind,vercel&perline=10)](https://skillicons.dev)
 
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Front-End Skills :
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Back-End Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=express,laravel,mongodb,mysql,nodejs,postman&perline=10)](https://skillicons.dev)
 
