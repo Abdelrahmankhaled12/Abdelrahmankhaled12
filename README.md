@@ -32,15 +32,15 @@ I am currently a computer and artificial intelligence student, and I am very int
 
 <hr>
 
-## ⚡ programming language :
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> programming language :
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,php&perline=15)](https://skillicons.dev)
 
 <hr>
 
-## ⚡️ Front-End Technologies :
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Front-End Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,css,html,jquery,sass,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,css,html,jquery,sass,figma,firebase,github,nextjs,netlify,redux,tailwind,vercel&perline=10)](https://skillicons.dev)
 
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
