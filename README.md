@@ -1,16 +1,13 @@
-# ⚡ Hi there I'm Abdelrahman Khaled 👋
-
-<hr>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Hi there I'm Abdelrahman Khaled  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdrbmoyOG9wcDFoazgyd245c2dmNHVwYms4YjhsbGRubHZraXJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rq1qDYKTTp3MWZ9mgI/giphy.gif" width ="50"> 
 
 ⏬ my website <a href="https://abdelrahmankhaled13.com/" target="_blank">PRESS</a>
 
 ⏬ Upwork <a href="https://www.upwork.com/freelancers/~01b4ff0c8a80509900" target="_blank">PRESS</a>
 
 
-
 ## ⚡ About Me :
 
-I am a student in the field of computer science and artificial intelligence, and have been learning about web design and development for the past three years. I have executed numerous designs and worked as a freelancer on various projects. I am passionate about programming and constantly strive to improve my skills and capabilities to compete effectively. I am confident that I will achieve my goals soon.
+I am a graduate in the field of computer science and artificial intelligence, and have been learning about web design and development for the past three years. I have executed numerous designs and worked as a freelancer on various projects. I am passionate about programming and constantly strive to improve my skills and capabilities to compete effectively. I am confident that I will achieve my goals soon.
 
 I enjoy challenging myself to learn new techniques and apply them in my projects. I love working with a team and exchanging ideas and learning from others. I am always looking to improve the user experience and make designs more attractive and user-friendly. I am interested in artificial intelligence technologies and want to apply them in web design and development. I believe that innovation and creativity are the keys to success in web design.
 
