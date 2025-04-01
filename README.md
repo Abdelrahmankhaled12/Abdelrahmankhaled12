@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Hi there I'm Abdelrahman Khaled  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdrbmoyOG9wcDFoazgyd245c2dmNHVwYms4YjhsbGRubHZraXJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rq1qDYKTTp3MWZ9mgI/giphy.gif" width ="50"> 
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Hi there I'm Abdelrahman Khaled  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ6MXZwdGIzamQ0ejRhOWI5OXVobnRrMXdwcTZxcjc3dnNqcm9mNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width ="50"> 
 
 ⏬ my website <a href="https://abdelrahmankhaled13.com/" target="_blank">PRESS</a>
 
@@ -12,8 +12,6 @@ I am a graduate in the field of computer science and artificial intelligence, an
 I enjoy challenging myself to learn new techniques and apply them in my projects. I love working with a team and exchanging ideas and learning from others. I am always looking to improve the user experience and make designs more attractive and user-friendly. I am interested in artificial intelligence technologies and want to apply them in web design and development. I believe that innovation and creativity are the keys to success in web design.
 
 Through platforms like Upwork, I've had the privilege to collaborate with clients from various backgrounds, delivering tailored solutions that exceed expectations. With a commendable 100% work success rate In my addition to becoming Top rated on the Upwork.
-
-<br>
 
 <hr>
 
